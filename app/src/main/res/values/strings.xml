@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlagQuiz</string>
+    <string name="dica_nome">Digite seu nome</string>
+    <string name="comecar">Começar</string>
+    <string name="nome_vazio">Digite seu nome para começar.</string>
+    <string name="dica_resposta">Qual é o país?</string>
+    <string name="responder">Responder</string>
+    <string name="proxima">Próxima</string>
+    <string name="ver_resultado">Ver resultado</string>
+    <string name="resposta_vazia">Digite uma resposta.</string>
+    <string name="contador">%1$d de 5</string>
+    <string name="correto">Correto!</string>
+    <string name="incorreto">Incorreto! A resposta certa é %1$s.</string>
+    <string name="bandeira_descricao">Bandeira do país que você deve identificar</string>
+    <string name="fim_jogo">Fim do jogo!</string>
+    <string name="jogador">Jogador: %1$s</string>
+    <string name="placar">%1$d de 100 pontos</string>
+    <string name="jogar_novamente">Jogar novamente</string>
+</resources>
